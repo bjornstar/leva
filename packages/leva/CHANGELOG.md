@@ -1,5 +1,11 @@
 # leva
 
+## 0.10.1
+
+### Patch Changes
+
+- d32ffaf: `@radix-ui/*` upgrades to prevent peerDeps warnings with React 19
+
 ## 0.10.0
 
 ### Minor Changes
